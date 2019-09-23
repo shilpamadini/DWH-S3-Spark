@@ -22,7 +22,7 @@ This folder contains the necessary program files to create Sparkify Parquet file
 1. Use the following command to clone the project repository.
 
     ```
-    git clone https://github.com/shilpamadini/sparkify-s3-spark.git
+    git clone https://github.com/shilpamadini/DWH-S3-Spark.git
     ```
 
 2. Create the environment using below command
